@@ -3,7 +3,7 @@ package com.example.myproject.leetcode.easy;
 /**
  * sqrt(x)
  * 有关二分法 为什么 加一 减去一
- * 建议在看
+ * 建议再看
  */
 public class SixtyEight {
     public int mySqrt(int x) {

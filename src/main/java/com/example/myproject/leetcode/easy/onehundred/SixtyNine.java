@@ -10,7 +10,7 @@ import java.util.Map;
  * 官方方法有很多种
  * 最简洁的是 利用众数校验的
  * 其次是哈希
- * 必要看
+ * 必再看
  */
 public class SixtyNine {
 
