@@ -11,6 +11,7 @@ import java.util.Arrays;
  * https://blog.csdn.net/zzzzlei123123123/article/details/88426944
  */
 public class FourtyOne {
+//   时间复杂度 低
 //    public String reverseStr(String s, int k) {
 //        StringBuilder res = new StringBuilder();
 //        int index = 0;
@@ -24,6 +25,7 @@ public class FourtyOne {
 //        }
 //        return res.toString();
 //    }
+    // 时间复杂度低 空间复杂度高
     public String reverseStr(String s, int k) {
         int num = s.length() / (2 * k);
         int remainder = s.length() % (2 * k);
