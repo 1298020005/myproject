@@ -1,7 +1,7 @@
 package com.example.myproject.leetcode.easy.ninehundred;
 
 /**
- * 905.按奇偶数排序数组
+ * 905.按奇偶排序数组
  */
 public class Five {
     public int[] sortArrayByParity(int[] nums) {
