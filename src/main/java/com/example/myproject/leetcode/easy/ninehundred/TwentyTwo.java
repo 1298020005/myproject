@@ -10,11 +10,13 @@ public class TwentyTwo {
         for(int n:nums){
             if (n%2==0){
                 res[even]=n;
-
+                even+=2;
             }else {
-
+                res[odd]=n;
+                odd+=2;
             }
         }
+        return res;
     }
 
     public static void main(String[] args) {
